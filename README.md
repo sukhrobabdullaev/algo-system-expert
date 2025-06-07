@@ -18,6 +18,30 @@ Welcome to the **Summer Coding Challenge** — a community-driven, open-source j
 
 ---
 
+## 🧱 Prerequisites
+
+Before joining the challenge, make sure you meet the following:
+
+### 🔤 Programming Languages
+
+- Basic knowledge of **JavaScript** and/or **Python**
+  > We’ll be solving problems and building concepts using these two languages. You can choose the one you’re most comfortable with.
+
+### 💡 Fundamental Concepts
+
+- Understanding of **variables**, **loops**, **functions**, and **conditionals**
+- Familiarity with **arrays**, **strings**, and **objects/dictionaries**
+- Comfort with **problem-solving on platforms** like [LeetCode](https://leetcode.com), [HackerRank](https://hackerrank.com), or [Codeforces](https://codeforces.com)
+
+### ⚙️ Tools You'll Need
+
+- Basic knowledge of **Git** and **GitHub** (cloning, forking, pull requests)
+- A code editor like **[Visual Studio Code](https://code.visualstudio.com/)**
+- **Zoom** or **Google Meet** account for weekly meetups
+- **Telegram** app to join the challenge group
+
+---
+
 ## 📚 Challenge Topics
 
 ### ⚙️ Algorithms & Data Structures
@@ -63,4 +87,5 @@ interview-tips/
 solutions/
   └── week1/
 ```
+
 # algo-system-expert
