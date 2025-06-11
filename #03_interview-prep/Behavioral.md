@@ -1,0 +1,17 @@
+# Table of Contents
+
+1. [Intro](#intro)
+2. [What Are Behavioral Interviews](#what-are-behavioral-interviews)
+3. [General Tips](#general-tips)
+4. [Low Performer](#low-performer)
+5. [Team Conflict](#team-conflict)
+6. [Interest In Company](#interest-in-company)
+7. [Strong Disagreement](#strong-disagreement)
+8. [Sudden Onboarding](#sudden-onboarding)
+9. [Work Distribution](#work-distribution)
+10. [Past Mistake](#past-mistake)
+11. [Challenging Project](#challenging-project)
+12. [Production Outage](#production-outage)
+13. [Tough Feedback](#tough-feedback)
+14. [Strengths And Improvements](#strengths-and-improvements)
+15. [Comfort Zone](#comfort-zone)
